@@ -1,0 +1,3 @@
+Day 40 of Testing:
+A nurse was bitten by an infected patient and it wasn't reported immediately. She has been placed in quarantine and what occurred has been alarming. She has gone through the symptoms at an exponential rate. It seems she will make a full transformation to the aggressive zombie-like state within 24 hours. The use of the term zombie has been prohibited in the lab, but it is certainly an accurate term to use.
+

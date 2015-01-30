@@ -1,0 +1,6 @@
+Patient: Rick James
+Patient infected with strand z.
+Vital signs currently normal.
+Expect rapid deterioration.
+
+

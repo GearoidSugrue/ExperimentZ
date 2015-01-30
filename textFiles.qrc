@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/textFiles">
+        <file alias="Armoury">Armoury.txt</file>
+        <file alias="Chart">Chart.txt</file>
+        <file alias="Diary Entry">Diary_Entry.txt</file>
+        <file alias="Journal 1">Journal1.txt</file>
+        <file alias="Journal 2">Journal2.txt</file>
+        <file alias="Journal 3">Journal3.txt</file>
+        <file alias="Journal 4">Journal4.txt</file>
+        <file alias="Journal 5">Journal5.txt</file>
+        <file alias="Journal 6">Journal6.txt</file>
+        <file alias="Journal 7">Journal7.txt</file>
+        <file alias="Journal 8">Journal8.txt</file>
+        <file alias="Journal 9">Journal9.txt</file>
+        <file alias="Journal 10">Journal10.txt</file>
+        <file alias="Journal 11">Journal11.txt</file>
+        <file alias="Journal 12">Journal12.txt</file>
+        <file alias="Journal 13">Journal13.txt</file>
+        <file alias="Journal 14">Journal14.txt</file>
+        <file alias="Medical Ward">Medical Ward.txt</file>
+        <file alias="Medical Hallway">Medical Hallway.txt</file>
+        <file alias="Cold Room">Cold Room.txt</file>
+        <file alias="East Wing Lower">East Wing Lower.txt</file>
+        <file alias="Bio Lab">Bio Lab.txt</file>
+        <file alias="Control Room">ControlRoom.txt</file>
+        <file alias="Decontamination Room">Decontamination Room.txt</file>
+        <file alias="East Wing Middle">EastWingMiddle.txt</file>
+        <file alias="East Wing Upper">EastWingUpper.txt</file>
+        <file alias="Elevator Room">Elevator Room.txt</file>
+        <file alias="Exit">Exit.txt</file>
+        <file alias="Exit Hall Far">Exit Hallway Far.txt</file>
+        <file alias="Exit Hallway Near">Exit Hallway Near.txt</file>
+        <file alias="Laser Room">Laser Room.txt</file>
+        <file alias="Minor Hallway">Minor Hallway.txt</file>
+        <file alias="Reactor Room">Reactor Room.txt</file>
+        <file alias="Research Room">Research room.txt</file>
+        <file alias="Restroom">Restroom.txt</file>
+        <file alias="Stairways">Stairways.txt</file>
+        <file alias="Storage Hallway">Storage Hallway.txt</file>
+        <file alias="Weapons Depot">Weapons Depot.txt</file>
+        <file alias="Storage Room">Storage Room.txt</file>
+        <file alias="Win Screen">Win Screen.txt</file>
+        <file alias="Talk To Enemy">Talk To Enemy.txt</file>
+    </qresource>
+</RCC>

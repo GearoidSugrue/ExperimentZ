@@ -1,0 +1,4 @@
+Day 26 of Testing:
+Certain Patients have recovered from their infection.
+Skin ulcers have healed, albeit with bad scarring, and their memory has returned. We are currently trying to isolate the anti-bodies which fought the infection. Most patients are in very poor condition and are starting to exhibit increased brain function.
+
